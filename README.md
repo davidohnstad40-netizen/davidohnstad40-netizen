@@ -8,6 +8,8 @@
 
 ## Writing & Projects
 
+I publish weekly across five sites — each focused on a different domain I work in:
+
 | Site | Topic |
 |------|-------|
 | [davidohnstad.com](https://davidohnstad.com) | Data Product Management |
@@ -18,11 +20,19 @@
 
 ---
 
+## Recent Articles
+
+- [David Ohnstad on Practical Data Product Management](https://davidohnstad.com/data-product-management-framework/) — *Data Product Management*
+
+---
+
 ## Connect
 
 - LinkedIn: [David Ohnstad](https://www.linkedin.com/in/davidohnstad/)
 - Twitter/X: [@David_Ohnstad](https://twitter.com/David_Ohnstad)
+- YouTube: [David Ohnstad](https://youtube.com/@davidohnstad7917)
+- Email: via LinkedIn
 
 ---
 
-*Senior Data Product Manager at Veeam · Based in Minnesota*
+*Updated May 2026 · Senior Data Product Manager at Veeam · Based in Minnesota*
