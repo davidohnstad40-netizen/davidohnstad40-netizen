@@ -15,14 +15,18 @@ I publish weekly across five sites — each focused on a different domain I work
 | [davidohnstad.com](https://davidohnstad.com) | Data Product Management |
 | [davidohnstad.net](https://davidohnstad.net) | AI & Machine Learning in Enterprise |
 | [davidohnstad.info](https://davidohnstad.info) | Leadership & Career Development |
-| [davidohnstadminnesota.com](https://davidohnstadminnesota.com) | Minnesota Professional Life |
+| [davidohnstadminnesota.com](https://davidohnstadminnesota.com) | Minnesota Outdoors & Adventure |
 | [david-ohnstad.com](https://david-ohnstad.com) | Woodworking & Making |
 
 ---
 
 ## Recent Articles
 
-- [David Ohnstad on Practical Data Product Management](https://davidohnstad.com/data-product-management-framework/) — *Data Product Management*
+- [Data Product Team Structure: Centralized vs. Distributed](https://davidohnstad.com/data-product-team-structure-centralized-distributed/) — *Data Product Management*
+- [Highway 61 Closure North Shore: Alternative Routes & Tips](https://davidohnstadminnesota.com/highway-61-closure-north-shore-alternative-routes/) — *Minnesota Outdoors & Adventure*
+- [AI Agents in Enterprise Software: Why Rollbacks Are Happening](https://davidohnstad.net/ai-agents-enterprise-software-rollbacks-2026/) — *AI & Machine Learning in Enterprise Software*
+- [Why Leadership Development Programs Fail: The $4.2M Reality](https://davidohnstad.info/why-leadership-development-programs-fail/) — *Leadership, Mentorship & Career Development*
+- [Beginner Woodworking Tools: Why That Popular List Fails](https://david-ohnstad.com/beginner-woodworking-tools-critique/) — *Woodworking & Making*
 
 ---
 
