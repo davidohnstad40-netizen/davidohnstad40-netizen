@@ -22,11 +22,13 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [Data Product Team Structure: Centralized vs. Distributed](https://davidohnstad.com/data-product-team-structure-centralized-distributed/) — *Data Product Management*
-- [Highway 61 Closure North Shore: Alternative Routes & Tips](https://davidohnstadminnesota.com/highway-61-closure-north-shore-alternative-routes/) — *Minnesota Outdoors & Adventure*
-- [AI Agents in Enterprise Software: Why Rollbacks Are Happening](https://davidohnstad.net/ai-agents-enterprise-software-rollbacks-2026/) — *AI & Machine Learning in Enterprise Software*
-- [Why Leadership Development Programs Fail: The $4.2M Reality](https://davidohnstad.info/why-leadership-development-programs-fail/) — *Leadership, Mentorship & Career Development*
-- [Beginner Woodworking Tools: Why That Popular List Fails](https://david-ohnstad.com/beginner-woodworking-tools-critique/) — *Woodworking & Making*
+- [Data Product Management Strategy: Building for Impact](https://davidohnstad.com/data-product-management-strategy-building-impact/) — *Data Product Management*
+- [Minnesota State Park Reservations: First-Timer Strategy Guide](https://davidohnstadminnesota.com/minnesota-state-park-reservations-first-timers/) — *Minnesota Outdoors & Adventure*
+- [AI Agents in Enterprise: Why Most Organizations Should Wait](https://davidohnstad.net/ai-agents-enterprise-wait-data-infrastructure/) — *AI & Machine Learning in Enterprise Software*
+- [Executive Presence at Tech Conferences: Maximize Career ROI](https://davidohnstad.info/executive-presence-tech-conference-roi/) — *Leadership, Mentorship & Career Development*
+- [Beginner Woodworking Tools: What You Actually Need](https://david-ohnstad.com/beginner-woodworking-tools-what-you-need/) — *Woodworking & Making*
+- [Enterprise AI Agents: Why Most Companies Should Wait](https://davidohnstad.net/enterprise-ai-agents-implementation-readiness/) — *AI & Machine Learning in Enterprise Software*
+- [Conference ROI: Turn Networking Into Real Relationships](https://davidohnstad.info/conference-networking-strategy-leadership/) — *Leadership, Mentorship & Career Development*
 
 ---
 
