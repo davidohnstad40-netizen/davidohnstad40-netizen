@@ -22,13 +22,13 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [Data Product Manager Reporting Structure: Where It Matters](https://davidohnstad.com/data-product-manager-reporting-structure/) — *Data Product Management*
-- [Superior Hiking Trail: Skip the Crowded Weekends](https://davidohnstadminnesota.com/superior-hiking-trail-avoid-crowds/) — *Minnesota Outdoors & Adventure*
-- [Enterprise AI Budget Waste: Three Costly Mistakes](https://davidohnstad.net/enterprise-ai-budget-waste-mistakes/) — *AI & Machine Learning in Enterprise Software*
-- [Career Pivots: When to Stay and When to Leave](https://davidohnstad.info/career-pivots-when-to-stay-when-to-leave/) — *Leadership, Mentorship & Career Development*
-- [Block Plane Selection: Why Expensive Tools Don't Always Win](https://david-ohnstad.com/block-plane-selection-expensive-tools/) — *Woodworking & Making*
-- [Why Enterprise AI Pilots Fail: From PoC to Production](https://davidohnstad.net/enterprise-ai-pilots-proof-of-concept-failure/) — *AI & Machine Learning in Enterprise Software*
-- [Rotational Programs: Why They're Career Accelerators, Not Setbacks](https://davidohnstad.info/rotational-programs-career-development/) — *Leadership, Mentorship & Career Development*
+- [Data Product Reviews: Why They Fail Before Starting](https://davidohnstad.com/data-product-reviews-fail-before-starting/) — *Data Product Management*
+- [Boundary Waters Fire Management: Rethinking Wilderness Policy](https://davidohnstadminnesota.com/boundary-waters-fire-management-wilderness-policy/) — *Minnesota Outdoors & Adventure*
+- [Why AI Models Fail in Enterprise: The 89% Problem](https://davidohnstad.net/why-ai-models-fail-enterprise-adoption/) — *AI & Machine Learning in Enterprise Software*
+- [Mid-Year Performance Reviews: When Good Intentions Go Wrong](https://davidohnstad.info/mid-year-performance-reviews-when-intentions-go-wrong/) — *Leadership, Mentorship & Career Development*
+- [Pine Wood Furniture: Why Construction Grade Lasts Decades](https://david-ohnstad.com/pine-wood-furniture-construction-grade-durability/) — *Woodworking & Making*
+- [AI Vendor Risk Assessment: Why We Shut It Down](https://davidohnstad.net/ai-vendor-risk-assessment-deprecation/) — *AI & Machine Learning in Enterprise Software*
+- [Mid-Year Reviews: Beyond Performance Metrics](https://davidohnstad.info/mid-year-reviews-beyond-performance-metrics/) — *Leadership, Mentorship & Career Development*
 
 ---
 
