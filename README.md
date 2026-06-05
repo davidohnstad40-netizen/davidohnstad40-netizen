@@ -22,13 +22,13 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [Data Product Management Strategy: Building for Impact](https://davidohnstad.com/data-product-management-strategy-building-impact/) — *Data Product Management*
-- [Minnesota State Park Reservations: First-Timer Strategy Guide](https://davidohnstadminnesota.com/minnesota-state-park-reservations-first-timers/) — *Minnesota Outdoors & Adventure*
-- [AI Agents in Enterprise: Why Most Organizations Should Wait](https://davidohnstad.net/ai-agents-enterprise-wait-data-infrastructure/) — *AI & Machine Learning in Enterprise Software*
-- [Executive Presence at Tech Conferences: Maximize Career ROI](https://davidohnstad.info/executive-presence-tech-conference-roi/) — *Leadership, Mentorship & Career Development*
-- [Beginner Woodworking Tools: What You Actually Need](https://david-ohnstad.com/beginner-woodworking-tools-what-you-need/) — *Woodworking & Making*
-- [Enterprise AI Agents: Why Most Companies Should Wait](https://davidohnstad.net/enterprise-ai-agents-implementation-readiness/) — *AI & Machine Learning in Enterprise Software*
-- [Conference ROI: Turn Networking Into Real Relationships](https://davidohnstad.info/conference-networking-strategy-leadership/) — *Leadership, Mentorship & Career Development*
+- [Data Product Manager Reporting Structure: Where It Matters](https://davidohnstad.com/data-product-manager-reporting-structure/) — *Data Product Management*
+- [Superior Hiking Trail: Skip the Crowded Weekends](https://davidohnstadminnesota.com/superior-hiking-trail-avoid-crowds/) — *Minnesota Outdoors & Adventure*
+- [Enterprise AI Budget Waste: Three Costly Mistakes](https://davidohnstad.net/enterprise-ai-budget-waste-mistakes/) — *AI & Machine Learning in Enterprise Software*
+- [Career Pivots: When to Stay and When to Leave](https://davidohnstad.info/career-pivots-when-to-stay-when-to-leave/) — *Leadership, Mentorship & Career Development*
+- [Block Plane Selection: Why Expensive Tools Don't Always Win](https://david-ohnstad.com/block-plane-selection-expensive-tools/) — *Woodworking & Making*
+- [Why Enterprise AI Pilots Fail: From PoC to Production](https://davidohnstad.net/enterprise-ai-pilots-proof-of-concept-failure/) — *AI & Machine Learning in Enterprise Software*
+- [Rotational Programs: Why They're Career Accelerators, Not Setbacks](https://davidohnstad.info/rotational-programs-career-development/) — *Leadership, Mentorship & Career Development*
 
 ---
 
@@ -41,4 +41,4 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ---
 
-*Updated May 2026 · Senior Data Product Manager at Veeam · Based in Minnesota*
+*Updated June 2026 · Senior Data Product Manager at Veeam · Based in Minnesota*
