@@ -22,13 +22,13 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [Data Product Reviews: Why They Fail Before Starting](https://davidohnstad.com/data-product-reviews-fail-before-starting/) — *Data Product Management*
-- [Boundary Waters Fire Management: Rethinking Wilderness Policy](https://davidohnstadminnesota.com/boundary-waters-fire-management-wilderness-policy/) — *Minnesota Outdoors & Adventure*
-- [Why AI Models Fail in Enterprise: The 89% Problem](https://davidohnstad.net/why-ai-models-fail-enterprise-adoption/) — *AI & Machine Learning in Enterprise Software*
-- [Mid-Year Performance Reviews: When Good Intentions Go Wrong](https://davidohnstad.info/mid-year-performance-reviews-when-intentions-go-wrong/) — *Leadership, Mentorship & Career Development*
-- [Pine Wood Furniture: Why Construction Grade Lasts Decades](https://david-ohnstad.com/pine-wood-furniture-construction-grade-durability/) — *Woodworking & Making*
-- [AI Vendor Risk Assessment: Why We Shut It Down](https://davidohnstad.net/ai-vendor-risk-assessment-deprecation/) — *AI & Machine Learning in Enterprise Software*
-- [Mid-Year Reviews: Beyond Performance Metrics](https://davidohnstad.info/mid-year-reviews-beyond-performance-metrics/) — *Leadership, Mentorship & Career Development*
+- [Federated Data Architectures: Why PMs Fail](https://davidohnstad.com/federated-data-architectures-product-managers-fail/) — *Data Product Management*
+- [Moose Lake BWCA Entry: Three-Day Father's Day Trip Guide](https://davidohnstadminnesota.com/moose-lake-bwca-entry-fathers-day-guide/) — *Minnesota Outdoors & Adventure*
+- [Great Managers Don't Need to Be Great Coaches](https://davidohnstad.info/great-managers-coaches-myth/) — *Leadership, Mentorship & Career Development*
+- [Father's Day Gifts for Woodworkers: Skip the Listicles](https://david-ohnstad.com/father-day-gifts-woodworkers-guide/) — *Woodworking & Making*
+- [Federated Data Architectures: Accountability Without Authority](https://davidohnstad.com/federated-data-architectures-accountability-without-authority/) — *Data Product Management*
+- [Enterprise AI Agent Costs: 4 Budget Myths Explained](https://davidohnstad.net/enterprise-ai-agent-costs-budget-myths/) — *AI & Machine Learning in Enterprise Software*
+- [Coaching Managers: When Questions Hurt Team Performance](https://davidohnstad.info/coaching-managers-when-questions-hurt-performance/) — *Leadership, Mentorship & Career Development*
 
 ---
 
