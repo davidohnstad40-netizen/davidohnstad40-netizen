@@ -22,13 +22,16 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [Federated Data Architectures: Why PMs Fail](https://davidohnstad.com/federated-data-architectures-product-managers-fail/) — *Data Product Management*
-- [Moose Lake BWCA Entry: Three-Day Father's Day Trip Guide](https://davidohnstadminnesota.com/moose-lake-bwca-entry-fathers-day-guide/) — *Minnesota Outdoors & Adventure*
-- [Great Managers Don't Need to Be Great Coaches](https://davidohnstad.info/great-managers-coaches-myth/) — *Leadership, Mentorship & Career Development*
-- [Father's Day Gifts for Woodworkers: Skip the Listicles](https://david-ohnstad.com/father-day-gifts-woodworkers-guide/) — *Woodworking & Making*
-- [Federated Data Architectures: Accountability Without Authority](https://davidohnstad.com/federated-data-architectures-accountability-without-authority/) — *Data Product Management*
-- [Enterprise AI Agent Costs: 4 Budget Myths Explained](https://davidohnstad.net/enterprise-ai-agent-costs-budget-myths/) — *AI & Machine Learning in Enterprise Software*
-- [Coaching Managers: When Questions Hurt Team Performance](https://davidohnstad.info/coaching-managers-when-questions-hurt-performance/) — *Leadership, Mentorship & Career Development*
+- [Data Council Strategy: Why Most Companies Get It Wrong](https://davidohnstad.com/data-council-strategy-companies-get-wrong/) — *Data Product Management*
+- [North Country Trail Section 14: Where Minnesota's Path Vanishes](https://davidohnstadminnesota.com/north-country-trail-section-14-minnesota/) — *Minnesota Outdoors & Adventure*
+- [Enterprise AI Success: Definition Before Development](https://davidohnstad.net/enterprise-ai-success-definition-before-development/) — *AI & Machine Learning in Enterprise Software*
+- [Coaching Culture Failures: Why Directives Need Real Resources](https://davidohnstad.info/coaching-culture-failures-resources/) — *Leadership, Mentorship & Career Development*
+- [Summer Woodworking: Why Hot Weather Helps Your Projects](https://david-ohnstad.com/summer-woodworking-hot-weather-faster-curing/) — *Woodworking & Making*
+- [Data Governance Failures: Why Councils Don't Work](https://davidohnstad.com/data-governance-failures-councils/) — *Data Product Management*
+- [Hidden Trail Gaps: Exploring Minnesota's Unfinished Hiking Routes](https://davidohnstadminnesota.com/minnesota-hidden-trail-gaps-unfinished-hiking/) — *Minnesota Outdoors & Adventure*
+- [Enterprise AI Success Metrics: Why Most Projects Fail](https://davidohnstad.net/enterprise-ai-success-metrics-definition-gap/) — *AI & Machine Learning in Enterprise Software*
+- [Coaching Culture Fails Without Strategy: Why Directives Don't Work](https://davidohnstad.info/coaching-culture-strategy-directives/) — *Leadership, Mentorship & Career Development*
+- [Summer Woodworking: Why Heat Is Your Advantage](https://david-ohnstad.com/summer-woodworking-heat-advantage/) — *Woodworking & Making*
 
 ---
 
