@@ -22,16 +22,16 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [Data Council Strategy: Why Most Companies Get It Wrong](https://davidohnstad.com/data-council-strategy-companies-get-wrong/) — *Data Product Management*
-- [North Country Trail Section 14: Where Minnesota's Path Vanishes](https://davidohnstadminnesota.com/north-country-trail-section-14-minnesota/) — *Minnesota Outdoors & Adventure*
-- [Enterprise AI Success: Definition Before Development](https://davidohnstad.net/enterprise-ai-success-definition-before-development/) — *AI & Machine Learning in Enterprise Software*
-- [Coaching Culture Failures: Why Directives Need Real Resources](https://davidohnstad.info/coaching-culture-failures-resources/) — *Leadership, Mentorship & Career Development*
-- [Summer Woodworking: Why Hot Weather Helps Your Projects](https://david-ohnstad.com/summer-woodworking-hot-weather-faster-curing/) — *Woodworking & Making*
-- [Data Governance Failures: Why Councils Don't Work](https://davidohnstad.com/data-governance-failures-councils/) — *Data Product Management*
-- [Hidden Trail Gaps: Exploring Minnesota's Unfinished Hiking Routes](https://davidohnstadminnesota.com/minnesota-hidden-trail-gaps-unfinished-hiking/) — *Minnesota Outdoors & Adventure*
-- [Enterprise AI Success Metrics: Why Most Projects Fail](https://davidohnstad.net/enterprise-ai-success-metrics-definition-gap/) — *AI & Machine Learning in Enterprise Software*
-- [Coaching Culture Fails Without Strategy: Why Directives Don't Work](https://davidohnstad.info/coaching-culture-strategy-directives/) — *Leadership, Mentorship & Career Development*
-- [Summer Woodworking: Why Heat Is Your Advantage](https://david-ohnstad.com/summer-woodworking-heat-advantage/) — *Woodworking & Making*
+- [Data Product Health Check: Mid-Year Diagnostic Guide](https://davidohnstad.com/data-product-health-check-diagnostic/) — *Data Product Management*
+- [BWCA Booking Tips: Beating the Recreation.gov Rush](https://davidohnstadminnesota.com/bwca-booking-recreation-gov-tips/) — *Minnesota Outdoors & Adventure*
+- [Enterprise AI Without Platform Replacement: 4 Myths Debunked](https://davidohnstad.net/enterprise-ai-platform-replacement-myths/) — *AI & Machine Learning in Enterprise Software*
+- [Soft Skills Coaching: When It Backfires on High Performers](https://davidohnstad.info/soft-skills-coaching-backfires-high-performers/) — *Leadership, Mentorship & Career Development*
+- [Beginner Woodworking Projects: Summer Heat Reality Check](https://david-ohnstad.com/beginner-woodworking-projects-summer-heat/) — *Woodworking & Making*
+- [Data Product Adoption: Why High Login Rates Miss the Mark](https://davidohnstad.com/data-product-adoption-metrics-trust/) — *Data Product Management*
+- [BWCA Permit Lottery: Book Fourth of July Before It's Gone](https://davidohnstadminnesota.com/bwca-permit-lottery-fourth-of-july-booking/) — *Minnesota Outdoors & Adventure*
+- [Enterprise AI Integration: Why Platform Replacement Is a Trap](https://davidohnstad.net/enterprise-ai-integration-platform-replacement-trap/) — *AI & Machine Learning in Enterprise Software*
+- [Leadership Skills Gap: What 2026 Data Really Reveals](https://davidohnstad.info/leadership-skills-gap-2026-data/) — *Leadership, Mentorship & Career Development*
+- [Summer Woodworking Projects: Skip the Cutting Board](https://david-ohnstad.com/summer-woodworking-projects-skip-cutting-board/) — *Woodworking & Making*
 
 ---
 
