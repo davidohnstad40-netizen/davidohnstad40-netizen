@@ -22,16 +22,16 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [Data Product Adoption: Why High Login Rates Miss the Mark](https://davidohnstad.com/data-product-adoption-metrics-trust/) — *Data Product Management*
-- [Data Governance Failures: Why Councils Don&#8217;t Work](https://davidohnstad.com/data-governance-failures-councils/) — *Data Product Management*
-- [Data Product Health Check: Mid-Year Diagnostic Guide](https://davidohnstad.com/data-product-health-check-diagnostic/) — *Data Product Management*
-- [Data Council Strategy: Why Most Companies Get It Wrong](https://davidohnstad.com/data-council-strategy-companies-get-wrong/) — *Data Product Management*
-- [Federated Data Architectures: Accountability Without Authority](https://davidohnstad.com/federated-data-architectures-accountability-without-authority/) — *Data Product Management*
-- [Federated Data Architectures: Why PMs Fail](https://davidohnstad.com/federated-data-architectures-product-managers-fail/) — *Data Product Management*
-- [Data Product Reviews: Why They Fail Before Starting](https://davidohnstad.com/data-product-reviews-fail-before-starting/) — *Data Product Management*
-- [Data Product Manager Reporting Structure: Where It Matters](https://davidohnstad.com/data-product-manager-reporting-structure/) — *Data Product Management*
-- [Data Product Manager Org Structure: Reporting Lines That Matter](https://davidohnstad.com/data-product-manager-org-structure-reporting/) — *Data Product Management*
-- [Data Product Management Strategy: Building for Impact](https://davidohnstad.com/data-product-management-strategy-building-impact/) — *Data Product Management*
+- [BWCA Permit Lottery: Book Fourth of July Before It&#8217;s Gone](https://davidohnstadminnesota.com/bwca-permit-lottery-fourth-of-july-booking/) — *Minnesota Outdoors & Adventure*
+- [BWCA Booking Tips: Beating the Recreation.gov Rush](https://davidohnstadminnesota.com/bwca-booking-recreation-gov-tips/) — *Minnesota Outdoors & Adventure*
+- [Hidden Trail Gaps: Exploring Minnesota&#8217;s Unfinished Hiking Routes](https://davidohnstadminnesota.com/minnesota-hidden-trail-gaps-unfinished-hiking/) — *Minnesota Outdoors & Adventure*
+- [North Country Trail Section 14: Where Minnesota&#8217;s Path Vanishes](https://davidohnstadminnesota.com/north-country-trail-section-14-minnesota/) — *Minnesota Outdoors & Adventure*
+- [Moose Lake BWCA Entry: Three-Day Father&#8217;s Day Trip Guide](https://davidohnstadminnesota.com/moose-lake-bwca-entry-fathers-day-guide/) — *Minnesota Outdoors & Adventure*
+- [Boundary Waters Fire Management: Rethinking Wilderness Policy](https://davidohnstadminnesota.com/boundary-waters-fire-management-wilderness-policy/) — *Minnesota Outdoors & Adventure*
+- [Superior Hiking Trail: Skip the Crowded Weekends](https://davidohnstadminnesota.com/superior-hiking-trail-avoid-crowds/) — *Minnesota Outdoors & Adventure*
+- [Boundary Waters Permits: Demand Surges as Water Quality Concerns Rise](https://davidohnstadminnesota.com/boundary-waters-permits-water-quality-2026/) — *Minnesota Outdoors & Adventure*
+- [Minnesota State Park Reservations: First-Timer Strategy Guide](https://davidohnstadminnesota.com/minnesota-state-park-reservations-first-timers/) — *Minnesota Outdoors & Adventure*
+- [Father&#8217;s Day Gifts for Woodworkers: Skip the Listicles](https://david-ohnstad.com/father-day-gifts-woodworkers-guide/) — *Woodworking & Making*
 
 ---
 
