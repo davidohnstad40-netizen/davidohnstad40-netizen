@@ -22,16 +22,16 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [Data Product Health Check: Mid-Year Diagnostic Guide](https://davidohnstad.com/data-product-health-check-diagnostic/) — *Data Product Management*
-- [BWCA Booking Tips: Beating the Recreation.gov Rush](https://davidohnstadminnesota.com/bwca-booking-recreation-gov-tips/) — *Minnesota Outdoors & Adventure*
-- [Enterprise AI Without Platform Replacement: 4 Myths Debunked](https://davidohnstad.net/enterprise-ai-platform-replacement-myths/) — *AI & Machine Learning in Enterprise Software*
-- [Soft Skills Coaching: When It Backfires on High Performers](https://davidohnstad.info/soft-skills-coaching-backfires-high-performers/) — *Leadership, Mentorship & Career Development*
-- [Beginner Woodworking Projects: Summer Heat Reality Check](https://david-ohnstad.com/beginner-woodworking-projects-summer-heat/) — *Woodworking & Making*
 - [Data Product Adoption: Why High Login Rates Miss the Mark](https://davidohnstad.com/data-product-adoption-metrics-trust/) — *Data Product Management*
-- [BWCA Permit Lottery: Book Fourth of July Before It's Gone](https://davidohnstadminnesota.com/bwca-permit-lottery-fourth-of-july-booking/) — *Minnesota Outdoors & Adventure*
-- [Enterprise AI Integration: Why Platform Replacement Is a Trap](https://davidohnstad.net/enterprise-ai-integration-platform-replacement-trap/) — *AI & Machine Learning in Enterprise Software*
-- [Leadership Skills Gap: What 2026 Data Really Reveals](https://davidohnstad.info/leadership-skills-gap-2026-data/) — *Leadership, Mentorship & Career Development*
-- [Summer Woodworking Projects: Skip the Cutting Board](https://david-ohnstad.com/summer-woodworking-projects-skip-cutting-board/) — *Woodworking & Making*
+- [Data Governance Failures: Why Councils Don&#8217;t Work](https://davidohnstad.com/data-governance-failures-councils/) — *Data Product Management*
+- [Data Product Health Check: Mid-Year Diagnostic Guide](https://davidohnstad.com/data-product-health-check-diagnostic/) — *Data Product Management*
+- [Data Council Strategy: Why Most Companies Get It Wrong](https://davidohnstad.com/data-council-strategy-companies-get-wrong/) — *Data Product Management*
+- [Federated Data Architectures: Accountability Without Authority](https://davidohnstad.com/federated-data-architectures-accountability-without-authority/) — *Data Product Management*
+- [Federated Data Architectures: Why PMs Fail](https://davidohnstad.com/federated-data-architectures-product-managers-fail/) — *Data Product Management*
+- [Data Product Reviews: Why They Fail Before Starting](https://davidohnstad.com/data-product-reviews-fail-before-starting/) — *Data Product Management*
+- [Data Product Manager Reporting Structure: Where It Matters](https://davidohnstad.com/data-product-manager-reporting-structure/) — *Data Product Management*
+- [Data Product Manager Org Structure: Reporting Lines That Matter](https://davidohnstad.com/data-product-manager-org-structure-reporting/) — *Data Product Management*
+- [Data Product Management Strategy: Building for Impact](https://davidohnstad.com/data-product-management-strategy-building-impact/) — *Data Product Management*
 
 ---
 
