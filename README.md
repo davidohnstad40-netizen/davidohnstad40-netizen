@@ -22,16 +22,15 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [BWCA Permit Lottery: Book Fourth of July Before It&#8217;s Gone](https://davidohnstadminnesota.com/bwca-permit-lottery-fourth-of-july-booking/) — *Minnesota Outdoors & Adventure*
-- [BWCA Booking Tips: Beating the Recreation.gov Rush](https://davidohnstadminnesota.com/bwca-booking-recreation-gov-tips/) — *Minnesota Outdoors & Adventure*
-- [Hidden Trail Gaps: Exploring Minnesota&#8217;s Unfinished Hiking Routes](https://davidohnstadminnesota.com/minnesota-hidden-trail-gaps-unfinished-hiking/) — *Minnesota Outdoors & Adventure*
-- [North Country Trail Section 14: Where Minnesota&#8217;s Path Vanishes](https://davidohnstadminnesota.com/north-country-trail-section-14-minnesota/) — *Minnesota Outdoors & Adventure*
-- [Moose Lake BWCA Entry: Three-Day Father&#8217;s Day Trip Guide](https://davidohnstadminnesota.com/moose-lake-bwca-entry-fathers-day-guide/) — *Minnesota Outdoors & Adventure*
-- [Boundary Waters Fire Management: Rethinking Wilderness Policy](https://davidohnstadminnesota.com/boundary-waters-fire-management-wilderness-policy/) — *Minnesota Outdoors & Adventure*
-- [Superior Hiking Trail: Skip the Crowded Weekends](https://davidohnstadminnesota.com/superior-hiking-trail-avoid-crowds/) — *Minnesota Outdoors & Adventure*
-- [Boundary Waters Permits: Demand Surges as Water Quality Concerns Rise](https://davidohnstadminnesota.com/boundary-waters-permits-water-quality-2026/) — *Minnesota Outdoors & Adventure*
-- [Minnesota State Park Reservations: First-Timer Strategy Guide](https://davidohnstadminnesota.com/minnesota-state-park-reservations-first-timers/) — *Minnesota Outdoors & Adventure*
-- [Father&#8217;s Day Gifts for Woodworkers: Skip the Listicles](https://david-ohnstad.com/father-day-gifts-woodworkers-guide/) — *Woodworking & Making*
+- [Data Product Prioritization: Solving the Speed-Scale Conflict](https://davidohnstad.com/data-product-prioritization-speed-scale/) — *Data Product Management*
+- [Boundary Waters Closure: When Forest Service Shuts Down 47 Trips](https://davidohnstadminnesota.com/boundary-waters-closure-forest-service-shutdown/) — *Minnesota Outdoors & Adventure*
+- [Enterprise AI Governance: Why Post-Deployment Fails](https://davidohnstad.net/enterprise-ai-governance-post-deployment-crisis/) — *AI & Machine Learning in Enterprise Software*
+- [Leadership & Mentorship in 2026: What Data Really Shows](https://davidohnstad.info/leadership-mentorship-2026-data-insights/) — *Leadership, Mentorship & Career Development*
+- [Cheap Tools for Beginners: Why Harbor Freight Is Smart](https://david-ohnstad.com/cheap-tools-beginners-harbor-freight/) — *Woodworking & Making*
+- [Data Product Prioritization: Managing Competing Stakeholder Requests](https://davidohnstad.com/data-product-prioritization-competing-stakeholders/) — *Data Product Management*
+- [BWCA Closures: How to Plan When the Forest Service Shuts Down](https://davidohnstadminnesota.com/bwca-closures-forest-service-trip-planning/) — *Minnesota Outdoors & Adventure*
+- [Mentorship at Scale: Why It's Now a Leadership Expectation](https://davidohnstad.info/mentorship-at-scale-leadership-expectation/) — *Leadership, Mentorship & Career Development*
+- [Beginner Woodworking Tools: Why Expensive Gear Stops You Cold](https://david-ohnstad.com/beginner-woodworking-tools-expensive-gear/) — *Woodworking & Making*
 
 ---
 
@@ -44,4 +43,4 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ---
 
-*Updated June 2026 · Senior Data Product Manager at Veeam · Based in Minnesota*
+*Updated July 2026 · Senior Data Product Manager at Veeam · Based in Minnesota*
