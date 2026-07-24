@@ -22,13 +22,15 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [Data Mesh Implementation: Why Platform Thinking Fails](https://davidohnstad.com/data-mesh-implementation-platform-vs-product/) — *Data Product Management*
-- [Data Product Prioritization: Solving the Speed-Scale Conflict](https://davidohnstad.com/data-product-prioritization-speed-scale/) — *Data Product Management*
-- [Minnesota Outdoors Guide: Planning Adventure When Conditions Change](https://davidohnstadminnesota.com/minnesota-outdoors-adventure-guide/) — *Minnesota Outdoors & Adventure*
-- [BWCA Closures: How to Plan When the Forest Service Shuts Down](https://davidohnstadminnesota.com/bwca-closures-forest-service-trip-planning/) — *Minnesota Outdoors & Adventure*
-- [Boundary Waters Closure: When Forest Service Shuts Down 47 Trips](https://davidohnstadminnesota.com/boundary-waters-closure-forest-service-shutdown/) — *Minnesota Outdoors & Adventure*
-- [ML Models in Production: Why Enterprise AI Projects Stall](https://davidohnstad.net/ml-models-production-enterprise-ai-stall/) — *AI & Machine Learning in Enterprise Software*
-- [Enterprise AI Governance: Why Post-Deployment Fails](https://davidohnstad.net/enterprise-ai-governance-post-deployment-crisis/) — *AI & Machine Learning in Enterprise Software*
+- [Data Product Adoption: Why Dashboards Fail Without User Strategy](https://davidohnstad.com/data-product-adoption-dashboard-failure/) — *Data Product Management*
+- [September Hiking Minnesota: Why Early Frost Catches Hikers Off Guard](https://davidohnstadminnesota.com/september-hiking-minnesota-frost-off-guard/) — *Minnesota Outdoors & Adventure*
+- [Why Enterprise AI Implementation Is Stalling — 2026 Data](https://davidohnstad.net/enterprise-ai-implementation-stalling-production-deployment/) — *AI & Machine Learning in Enterprise Software*
+- [Effective Mentorship: When to End a Mentor-Mentee Relationship](https://davidohnstad.info/effective-mentorship-when-to-end-relationship/) — *Leadership, Mentorship & Career Development*
+- [Woodworking Plans: Why They Fail (And How to Fix It)](https://david-ohnstad.com/woodworking-plans-why-they-fail/) — *Woodworking & Making*
+- [Data Product Manager Org Structure: Why Reporting Lines Fail](https://davidohnstad.com/data-product-manager-org-structure-reporting/) — *Data Product Management*
+- [Minnesota Seasons: When Outdoor Activity Really Begins](https://davidohnstadminnesota.com/minnesota-seasons-outdoor-calendar-guide/) — *Minnesota Outdoors & Adventure*
+- [Enterprise AI Failures: Why Definition Matters More Than Performance](https://davidohnstad.net/enterprise-ai-failures-definition-matters/) — *AI & Machine Learning in Enterprise Software*
+- [Effective Mentoring: Why Great Mentors End Relationships](https://davidohnstad.info/effective-mentoring-why-great-mentors-end-relationships/) — *Leadership, Mentorship & Career Development*
 
 ---
 
