@@ -22,16 +22,15 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [Data Product Adoption: Why Dashboards Fail Without User Strategy](https://davidohnstad.com/data-product-adoption-dashboard-failure/) — *Data Product Management*
-- [Data Product Strategy: When to Kill a $250K Initiative](https://davidohnstad.com/data-product-strategy-kill-initiative/) — *Data Product Management*
-- [Data Product Prioritization: Managing Competing Stakeholder Requests](https://davidohnstad.com/data-product-prioritization-competing-stakeholders/) — *Data Product Management*
-- [Why Enterprise AI Implementation Is Stalling — 2026 Data](https://davidohnstad.net/enterprise-ai-implementation-stalling-production-deployment/) — *AI & Machine Learning in Enterprise Software*
-- [Effective Mentoring: Why Great Mentors End Relationships](https://davidohnstad.info/effective-mentoring-why-great-mentors-end-relationships/) — *Leadership, Mentorship & Career Development*
-- [Effective Mentorship: When to End a Mentor-Mentee Relationship](https://davidohnstad.info/effective-mentorship-when-to-end-relationship/) — *Leadership, Mentorship & Career Development*
-- [Woodworking Joints: Why Strength Isn&#8217;t Always Better](https://david-ohnstad.com/woodworking-joints-strength-myth/) — *Woodworking & Making*
-- [Woodworking Joints: Why Popular Choices Often Fail](https://david-ohnstad.com/woodworking-joints-why-popular-choices-fail/) — *Woodworking & Making*
-- [Beginner Woodworking Tools: Why Expensive Gear Stops You Cold](https://david-ohnstad.com/beginner-woodworking-tools-expensive-gear/) — *Woodworking & Making*
-- [Cheap Tools for Beginners: Why Harbor Freight Is Smart](https://david-ohnstad.com/cheap-tools-beginners-harbor-freight/) — *Woodworking & Making*
+- [Data Team Structure: Why Most Fail Before Sprint One](https://davidohnstad.com/data-team-structure-failure-patterns/) — *Data Product Management*
+- [August BWCA Fishing: Planning Strategies That Work](https://davidohnstadminnesota.com/august-bwca-fishing-trip-planning/) — *Minnesota Outdoors & Adventure*
+- [Enterprise AI Platforms: Why They Create Technical Debt](https://davidohnstad.net/ai-ml-enterprise-saas-product-manager/) — *AI & Machine Learning in Enterprise Software*
+- [Reverse Mentorship Programs: Why They Fail](https://davidohnstad.info/reverse-mentorship-programs-why-they-fail/) — *Leadership, Mentorship & Career Development*
+- [Nick Offerman's Woodworking Advice: What's Missing](https://david-ohnstad.com/nick-offerman-woodworking-advice-missing/) — *Woodworking & Making*
+- [Data Product Team Structure: Why Most Fail](https://davidohnstad.com/data-product-team-structure-why-most-fail/) — *Data Product Management*
+- [Best BWCA Season: Why September Beats Summer](https://davidohnstadminnesota.com/best-bwca-season-september-paddling/) — *Minnesota Outdoors & Adventure*
+- [Enterprise AI Platforms: Why They Create Technical Debt](https://davidohnstad.net/enterprise-ai-platforms-technical-debt/) — *AI & Machine Learning in Enterprise Software*
+- [Gen Z Manager Problems: Fix Your Leadership Development Pipeline](https://davidohnstad.info/gen-z-managers-leadership-development-pipeline/) — *Leadership, Mentorship & Career Development*
 
 ---
 
