@@ -23,14 +23,8 @@ I publish weekly across five sites — each focused on a different domain I work
 ## Recent Articles
 
 - [Data Team Structure: Why Most Fail Before Sprint One](https://davidohnstad.com/data-team-structure-failure-patterns/) — *Data Product Management*
-- [August BWCA Fishing: Planning Strategies That Work](https://davidohnstadminnesota.com/august-bwca-fishing-trip-planning/) — *Minnesota Outdoors & Adventure*
-- [Enterprise AI Platforms: Why They Create Technical Debt](https://davidohnstad.net/ai-ml-enterprise-saas-product-manager/) — *AI & Machine Learning in Enterprise Software*
-- [Reverse Mentorship Programs: Why They Fail](https://davidohnstad.info/reverse-mentorship-programs-why-they-fail/) — *Leadership, Mentorship & Career Development*
-- [Nick Offerman's Woodworking Advice: What's Missing](https://david-ohnstad.com/nick-offerman-woodworking-advice-missing/) — *Woodworking & Making*
-- [Data Product Team Structure: Why Most Fail](https://davidohnstad.com/data-product-team-structure-why-most-fail/) — *Data Product Management*
-- [Best BWCA Season: Why September Beats Summer](https://davidohnstadminnesota.com/best-bwca-season-september-paddling/) — *Minnesota Outdoors & Adventure*
 - [Enterprise AI Platforms: Why They Create Technical Debt](https://davidohnstad.net/enterprise-ai-platforms-technical-debt/) — *AI & Machine Learning in Enterprise Software*
-- [Gen Z Manager Problems: Fix Your Leadership Development Pipeline](https://davidohnstad.info/gen-z-managers-leadership-development-pipeline/) — *Leadership, Mentorship & Career Development*
+- [Enterprise AI Failures: Why Definition Matters More Than Performance](https://davidohnstad.net/enterprise-ai-failures-definition-matters/) — *AI & Machine Learning in Enterprise Software*
 
 ---
 
@@ -43,4 +37,4 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ---
 
-*Updated July 2026 · Senior Data Product Manager at Veeam · Based in Minnesota*
+*Updated August 2026 · Senior Data Product Manager at Veeam · Based in Minnesota*
