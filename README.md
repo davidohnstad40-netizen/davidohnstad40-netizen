@@ -22,13 +22,15 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [Data Product Execution: Why Frameworks Fail in Practice](https://davidohnstad.com/data-product-execution-frameworks-fail/) — *Data Product Management*
-- [Teaching Kids Outdoor Skills: Why Late August Beats Fall](https://davidohnstadminnesota.com/teach-kids-outdoor-skills-late-august/) — *Minnesota Outdoors & Adventure*
-- [Best BWCA Season: Why September Beats Summer](https://davidohnstadminnesota.com/best-bwca-season-september-paddling/) — *Minnesota Outdoors & Adventure*
-- [Enterprise AI Integration: Legacy Systems Don&#8217;t Block Modern ML](https://davidohnstad.net/enterprise-ai-legacy-systems-integration/) — *AI & Machine Learning in Enterprise Software*
-- [Why Enterprise AI Projects Fail After POC Success](https://davidohnstad.net/why-enterprise-ai-projects-fail-after-poc/) — *AI & Machine Learning in Enterprise Software*
-- [Gen Z Manager Problems: Fix Your Leadership Development Pipeline](https://davidohnstad.info/gen-z-managers-leadership-development-pipeline/) — *Leadership, Mentorship & Career Development*
-- [Nick Offerman&#8217;s Woodworking Advice: What&#8217;s Missing](https://david-ohnstad.com/nick-offerman-woodworking-advice-missing/) — *Woodworking & Making*
+- [Non-Technical PMs Build Better Data Products](https://davidohnstad.com/non-technical-pms-data-products/) — *Data Product Management*
+- [Minnesota Outdoor Experiences: Beyond the Boundary Waters](https://davidohnstadminnesota.com/minnesota-outdoor-experiences-beyond-boundary-waters/) — *Minnesota Outdoors & Adventure*
+- [Enterprise AI ROI: Why Adoption Metrics Miss the Mark](https://davidohnstad.net/enterprise-ai-roi-adoption-metrics/) — *AI & Machine Learning in Enterprise Software*
+- [First-Time Manager Guide: Build Support Systems That Prevent 67% Failure Rate](https://davidohnstad.info/building-high-performing-teams-leadership/) — *Leadership, Mentorship & Career Development*
+- [Pocket-Hole Joinery: When to Use It (and When Not To)](https://david-ohnstad.com/pocket-hole-jig-when-to-use/) — *Woodworking & Making*
+- [Data Product Management Myths: What Actually Matters](https://davidohnstad.com/data-product-management-myths-debunked/) — *Data Product Management*
+- [Gooseberry Falls Late Summer: Why September Beats July](https://davidohnstadminnesota.com/gooseberry-falls-late-summer-september-hiking/) — *Minnesota Outdoors & Adventure*
+- [AI ROI in Enterprise: When Implementation Outpaces Measurement](https://davidohnstad.net/ai-roi-enterprise-measurement/) — *AI & Machine Learning in Enterprise Software*
+- [Leadership Development Programs Fail: The 30-Day Window](https://davidohnstad.info/why-leadership-development-programs-fail/) — *Leadership, Mentorship & Career Development*
 
 ---
 
