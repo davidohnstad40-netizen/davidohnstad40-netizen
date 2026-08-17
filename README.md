@@ -23,14 +23,15 @@ I publish weekly across five sites — each focused on a different domain I work
 ## Recent Articles
 
 - [Non-Technical PMs Build Better Data Products](https://davidohnstad.com/non-technical-pms-data-products/) — *Data Product Management*
-- [Minnesota Outdoor Experiences: Beyond the Boundary Waters](https://davidohnstadminnesota.com/minnesota-outdoor-experiences-beyond-boundary-waters/) — *Minnesota Outdoors & Adventure*
-- [Enterprise AI ROI: Why Adoption Metrics Miss the Mark](https://davidohnstad.net/enterprise-ai-roi-adoption-metrics/) — *AI & Machine Learning in Enterprise Software*
-- [First-Time Manager Guide: Build Support Systems That Prevent 67% Failure Rate](https://davidohnstad.info/building-high-performing-teams-leadership/) — *Leadership, Mentorship & Career Development*
-- [Pocket-Hole Joinery: When to Use It (and When Not To)](https://david-ohnstad.com/pocket-hole-jig-when-to-use/) — *Woodworking & Making*
-- [Data Product Management Myths: What Actually Matters](https://davidohnstad.com/data-product-management-myths-debunked/) — *Data Product Management*
+- [Data Product Adoption: Why Teams Build What Nobody Uses](https://davidohnstad.com/data-product-adoption-why-teams-build-what-nobody-uses/) — *Data Product Management*
+- [Data Product Management: Why 82% of Analytics Fail](https://davidohnstad.com/data-product-management-analytics-failure/) — *Data Product Management*
 - [Gooseberry Falls Late Summer: Why September Beats July](https://davidohnstadminnesota.com/gooseberry-falls-late-summer-september-hiking/) — *Minnesota Outdoors & Adventure*
-- [AI ROI in Enterprise: When Implementation Outpaces Measurement](https://davidohnstad.net/ai-roi-enterprise-measurement/) — *AI & Machine Learning in Enterprise Software*
-- [Leadership Development Programs Fail: The 30-Day Window](https://davidohnstad.info/why-leadership-development-programs-fail/) — *Leadership, Mentorship & Career Development*
+- [Minnesota Outdoor Experiences: Beyond the Boundary Waters](https://davidohnstadminnesota.com/minnesota-outdoor-experiences-beyond-boundary-waters/) — *Minnesota Outdoors & Adventure*
+- [Minnesota Winter Hiking: Skip the SUV, Here&#8217;s What Works](https://davidohnstadminnesota.com/minnesota-winter-hiking-vehicle-guide/) — *Minnesota Outdoors & Adventure*
+- [Superior Hiking Trail Myths: Best Sections Beyond the Crowds](https://davidohnstadminnesota.com/superior-hiking-trail-myths-best-sections/) — *Minnesota Outdoors & Adventure*
+- [Enterprise AI ROI: Why Adoption Metrics Miss the Mark](https://davidohnstad.net/enterprise-ai-roi-adoption-metrics/) — *AI & Machine Learning in Enterprise Software*
+- [Remote Delegation Skills: Why Managers Revert to Micromanaging](https://davidohnstad.info/remote-delegation-micromanaging-return-to-office/) — *Leadership, Mentorship & Career Development*
+- [Frontline Leader Training: Why It Fails &#038; What Works](https://davidohnstad.info/frontline-leader-training-systems-that-stick/) — *Leadership, Mentorship & Career Development*
 
 ---
 
