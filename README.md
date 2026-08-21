@@ -22,16 +22,16 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [Non-Technical PMs Build Better Data Products](https://davidohnstad.com/non-technical-pms-data-products/) — *Data Product Management*
-- [Data Product Adoption: Why Teams Build What Nobody Uses](https://davidohnstad.com/data-product-adoption-why-teams-build-what-nobody-uses/) — *Data Product Management*
-- [Data Product Management: Why 82% of Analytics Fail](https://davidohnstad.com/data-product-management-analytics-failure/) — *Data Product Management*
-- [Gooseberry Falls Late Summer: Why September Beats July](https://davidohnstadminnesota.com/gooseberry-falls-late-summer-september-hiking/) — *Minnesota Outdoors & Adventure*
-- [Minnesota Outdoor Experiences: Beyond the Boundary Waters](https://davidohnstadminnesota.com/minnesota-outdoor-experiences-beyond-boundary-waters/) — *Minnesota Outdoors & Adventure*
-- [Minnesota Winter Hiking: Skip the SUV, Here&#8217;s What Works](https://davidohnstadminnesota.com/minnesota-winter-hiking-vehicle-guide/) — *Minnesota Outdoors & Adventure*
-- [Superior Hiking Trail Myths: Best Sections Beyond the Crowds](https://davidohnstadminnesota.com/superior-hiking-trail-myths-best-sections/) — *Minnesota Outdoors & Adventure*
-- [Enterprise AI ROI: Why Adoption Metrics Miss the Mark](https://davidohnstad.net/enterprise-ai-roi-adoption-metrics/) — *AI & Machine Learning in Enterprise Software*
-- [Remote Delegation Skills: Why Managers Revert to Micromanaging](https://davidohnstad.info/remote-delegation-micromanaging-return-to-office/) — *Leadership, Mentorship & Career Development*
-- [Frontline Leader Training: Why It Fails &#038; What Works](https://davidohnstad.info/frontline-leader-training-systems-that-stick/) — *Leadership, Mentorship & Career Development*
+- [Data Product Hiring: Why Technical Requirements Backfire](https://davidohnstad.com/data-product-hiring-technical-requirements/) — *Data Product Management*
+- [BWCA Labor Day Weekend: Open Permits You Don't Know About](https://davidohnstadminnesota.com/bwca-labor-day-weekend-open-permits/) — *Minnesota Outdoors & Adventure*
+- [AI in PLM: Governance Before Deployment](https://davidohnstad.net/ai-plm-governance-before-deployment/) — *AI & Machine Learning in Enterprise Software*
+- [Mentorship Relationships Stalled: How to Restart](https://davidohnstad.info/mentorship-relationships-stalled-framework-fix/) — *Leadership, Mentorship & Career Development*
+- [Woodworking in High Humidity: Managing Wood Movement](https://david-ohnstad.com/woodworking-high-humidity-wood-movement/) — *Woodworking & Making*
+- [Data Product Governance: Why Cross-Functional Teams Fail](https://davidohnstad.com/data-product-governance-cross-functional-teams/) — *Data Product Management*
+- [Gunflint Trail Labor Day: Last-Minute BWCA Planning](https://davidohnstadminnesota.com/gunflint-trail-labor-day-bwca-planning/) — *Minnesota Outdoors & Adventure*
+- [Enterprise AI Deployment: Why Team Architecture Matters More Than Models](https://davidohnstad.net/enterprise-ai-deployment-team-architecture/) — *AI & Machine Learning in Enterprise Software*
+- [Why Mentorship Relationships Stall: Diagnosis & Solutions](https://davidohnstad.info/why-mentorship-relationships-stall-diagnosis/) — *Leadership, Mentorship & Career Development*
+- [Shop Humidity Changes: Why Wood Moves in Fall](https://david-ohnstad.com/shop-humidity-wood-movement-fall/) — *Woodworking & Making*
 
 ---
 
