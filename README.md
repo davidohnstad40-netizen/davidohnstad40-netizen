@@ -23,15 +23,15 @@ I publish weekly across five sites — each focused on a different domain I work
 ## Recent Articles
 
 - [Data Product Hiring: Why Technical Requirements Backfire](https://davidohnstad.com/data-product-hiring-technical-requirements/) — *Data Product Management*
-- [BWCA Labor Day Weekend: Open Permits You Don't Know About](https://davidohnstadminnesota.com/bwca-labor-day-weekend-open-permits/) — *Minnesota Outdoors & Adventure*
+- [Data Product Management vs. Standard PM: Key Differences](https://davidohnstad.com/data-product-management-vs-standard-pm/) — *Data Product Management*
+- [Data Product Management Myths: What Actually Matters](https://davidohnstad.com/data-product-management-myths-debunked/) — *Data Product Management*
+- [BWCA Labor Day Weekend: Open Permits You Don&#8217;t Know About](https://davidohnstadminnesota.com/bwca-labor-day-weekend-open-permits/) — *Minnesota Outdoors & Adventure*
+- [Boundary Waters Reopening: Plan Fall Trips Around August Closures](https://davidohnstadminnesota.com/boundary-waters-reopening-fall-trip-planning/) — *Minnesota Outdoors & Adventure*
 - [AI in PLM: Governance Before Deployment](https://davidohnstad.net/ai-plm-governance-before-deployment/) — *AI & Machine Learning in Enterprise Software*
-- [Mentorship Relationships Stalled: How to Restart](https://davidohnstad.info/mentorship-relationships-stalled-framework-fix/) — *Leadership, Mentorship & Career Development*
-- [Woodworking in High Humidity: Managing Wood Movement](https://david-ohnstad.com/woodworking-high-humidity-wood-movement/) — *Woodworking & Making*
-- [Data Product Governance: Why Cross-Functional Teams Fail](https://davidohnstad.com/data-product-governance-cross-functional-teams/) — *Data Product Management*
-- [Gunflint Trail Labor Day: Last-Minute BWCA Planning](https://davidohnstadminnesota.com/gunflint-trail-labor-day-bwca-planning/) — *Minnesota Outdoors & Adventure*
-- [Enterprise AI Deployment: Why Team Architecture Matters More Than Models](https://davidohnstad.net/enterprise-ai-deployment-team-architecture/) — *AI & Machine Learning in Enterprise Software*
-- [Why Mentorship Relationships Stall: Diagnosis & Solutions](https://davidohnstad.info/why-mentorship-relationships-stall-diagnosis/) — *Leadership, Mentorship & Career Development*
-- [Shop Humidity Changes: Why Wood Moves in Fall](https://david-ohnstad.com/shop-humidity-wood-movement-fall/) — *Woodworking & Making*
+- [Shipping AI Features Through Team Transitions: A SaaS Case Study](https://davidohnstad.net/ai-features-team-transitions-saas/) — *AI & Machine Learning in Enterprise Software*
+- [AI ROI in Enterprise: When Implementation Outpaces Measurement](https://davidohnstad.net/ai-roi-enterprise-measurement/) — *AI & Machine Learning in Enterprise Software*
+- [Leadership Development Programs Fail: The 30-Day Window](https://davidohnstad.info/why-leadership-development-programs-fail/) — *Leadership, Mentorship & Career Development*
+- [First-Time Manager Guide: Build Support Systems That Prevent 67% Failure Rate](https://davidohnstad.info/building-high-performing-teams-leadership/) — *Leadership, Mentorship & Career Development*
 
 ---
 
