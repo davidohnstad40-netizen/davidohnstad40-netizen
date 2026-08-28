@@ -22,16 +22,15 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [Data Product Hiring: Why Technical Requirements Backfire](https://davidohnstad.com/data-product-hiring-technical-requirements/) — *Data Product Management*
-- [Data Product Management vs. Standard PM: Key Differences](https://davidohnstad.com/data-product-management-vs-standard-pm/) — *Data Product Management*
-- [Data Product Management Myths: What Actually Matters](https://davidohnstad.com/data-product-management-myths-debunked/) — *Data Product Management*
-- [BWCA Labor Day Weekend: Open Permits You Don&#8217;t Know About](https://davidohnstadminnesota.com/bwca-labor-day-weekend-open-permits/) — *Minnesota Outdoors & Adventure*
-- [Boundary Waters Reopening: Plan Fall Trips Around August Closures](https://davidohnstadminnesota.com/boundary-waters-reopening-fall-trip-planning/) — *Minnesota Outdoors & Adventure*
-- [AI in PLM: Governance Before Deployment](https://davidohnstad.net/ai-plm-governance-before-deployment/) — *AI & Machine Learning in Enterprise Software*
-- [Shipping AI Features Through Team Transitions: A SaaS Case Study](https://davidohnstad.net/ai-features-team-transitions-saas/) — *AI & Machine Learning in Enterprise Software*
-- [AI ROI in Enterprise: When Implementation Outpaces Measurement](https://davidohnstad.net/ai-roi-enterprise-measurement/) — *AI & Machine Learning in Enterprise Software*
-- [Leadership Development Programs Fail: The 30-Day Window](https://davidohnstad.info/why-leadership-development-programs-fail/) — *Leadership, Mentorship & Career Development*
-- [First-Time Manager Guide: Build Support Systems That Prevent 67% Failure Rate](https://davidohnstad.info/building-high-performing-teams-leadership/) — *Leadership, Mentorship & Career Development*
+- [Data Product Manager Salary Gap: Why and How to Fix It](https://davidohnstad.com/data-product-manager-salary-gap-compensation/) — *Data Product Management*
+- [BWCA Entry Point Closure: Wildfire Impact on Minnesota](https://davidohnstadminnesota.com/bwca-entry-point-closure-wildfire/) — *Minnesota Outdoors & Adventure*
+- [Enterprise AI Governance: Why Risk Outpaced Control](https://davidohnstad.net/enterprise-ai-governance-risk-control/) — *AI & Machine Learning in Enterprise Software*
+- [Leadership Development Programs: Why 75% Fail by Year-End](https://davidohnstad.info/leadership-development-programs-failure-rate/) — *Leadership, Mentorship & Career Development*
+- [Woodworking Skills: Why Videos Aren't Enough](https://david-ohnstad.com/david-ohnstad-woodworking-journey/) — *Woodworking & Making*
+- [Data Product Manager Salary Negotiation: Why I Left $47K](https://davidohnstad.com/data-product-manager-salary-negotiation-mistake/) — *Data Product Management*
+- [North Shore Camping: When Fire Restrictions Cancel Your Reservation](https://davidohnstadminnesota.com/north-shore-camping-fire-restrictions-reservation/) — *Minnesota Outdoors & Adventure*
+- [Enterprise AI Governance: Why 68% of Policies Fail](https://davidohnstad.net/enterprise-ai-governance-policies-fail/) — *AI & Machine Learning in Enterprise Software*
+- [Leadership Development: Measure Behavior Change, Not Completion](https://davidohnstad.info/leadership-development-behavior-change-over-completion/) — *Leadership, Mentorship & Career Development*
 
 ---
 
