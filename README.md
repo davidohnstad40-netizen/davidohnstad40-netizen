@@ -23,14 +23,15 @@ I publish weekly across five sites — each focused on a different domain I work
 ## Recent Articles
 
 - [Data Product Manager Salary Gap: Why and How to Fix It](https://davidohnstad.com/data-product-manager-salary-gap-compensation/) — *Data Product Management*
-- [BWCA Entry Point Closure: Wildfire Impact on Minnesota](https://davidohnstadminnesota.com/bwca-entry-point-closure-wildfire/) — *Minnesota Outdoors & Adventure*
+- [Data Product Governance: Why Cross-Functional Teams Fail](https://davidohnstad.com/data-product-governance-cross-functional-teams/) — *Data Product Management*
+- [Data Product Managers: Stop Solving the Wrong Problem](https://davidohnstad.com/data-product-managers-solving-wrong-problem/) — *Data Product Management*
 - [Enterprise AI Governance: Why Risk Outpaced Control](https://davidohnstad.net/enterprise-ai-governance-risk-control/) — *AI & Machine Learning in Enterprise Software*
-- [Leadership Development Programs: Why 75% Fail by Year-End](https://davidohnstad.info/leadership-development-programs-failure-rate/) — *Leadership, Mentorship & Career Development*
-- [Woodworking Skills: Why Videos Aren't Enough](https://david-ohnstad.com/david-ohnstad-woodworking-journey/) — *Woodworking & Making*
-- [Data Product Manager Salary Negotiation: Why I Left $47K](https://davidohnstad.com/data-product-manager-salary-negotiation-mistake/) — *Data Product Management*
-- [North Shore Camping: When Fire Restrictions Cancel Your Reservation](https://davidohnstadminnesota.com/north-shore-camping-fire-restrictions-reservation/) — *Minnesota Outdoors & Adventure*
-- [Enterprise AI Governance: Why 68% of Policies Fail](https://davidohnstad.net/enterprise-ai-governance-policies-fail/) — *AI & Machine Learning in Enterprise Software*
-- [Leadership Development: Measure Behavior Change, Not Completion](https://davidohnstad.info/leadership-development-behavior-change-over-completion/) — *Leadership, Mentorship & Career Development*
+- [Enterprise AI Deployment: Why Team Architecture Matters More Than Models](https://davidohnstad.net/enterprise-ai-deployment-team-architecture/) — *AI & Machine Learning in Enterprise Software*
+- [Why Mentorship Relationships Stall: Diagnosis &#038; Solutions](https://davidohnstad.info/why-mentorship-relationships-stall-diagnosis/) — *Leadership, Mentorship & Career Development*
+- [Mentorship Relationships Stalled: How to Restart](https://davidohnstad.info/mentorship-relationships-stalled-framework-fix/) — *Leadership, Mentorship & Career Development*
+- [Mentorship Program ROI: Why Most Can&#8217;t Prove Results](https://davidohnstad.info/mentorship-program-roi-measurement-2/) — *Leadership, Mentorship & Career Development*
+- [Mentorship Program ROI: Why Measurement Matters](https://davidohnstad.info/mentorship-program-roi-measurement/) — *Leadership, Mentorship & Career Development*
+- [Woodworking in High Humidity: Managing Wood Movement](https://david-ohnstad.com/woodworking-high-humidity-wood-movement/) — *Woodworking & Making*
 
 ---
 
