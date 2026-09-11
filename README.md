@@ -22,11 +22,14 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [Data Product Team Structure: Why $180K Failed in 90 Days](https://davidohnstad.com/data-product-team-structure-failure/) — *Data Product Management*
-- [Data Product Manager Salary Negotiation: Why I Left $47K](https://davidohnstad.com/data-product-manager-salary-negotiation-mistake/) — *Data Product Management*
-- [Leadership Development: Measure Behavior Change, Not Completion](https://davidohnstad.info/leadership-development-behavior-change-over-completion/) — *Leadership, Mentorship & Career Development*
-- [Leadership Development Programs: Why 75% Fail by Year-End](https://davidohnstad.info/leadership-development-programs-failure-rate/) — *Leadership, Mentorship & Career Development*
-- [Woodworking Skills: Why Videos Aren&#8217;t Enough](https://david-ohnstad.com/david-ohnstad-woodworking-journey/) — *Woodworking & Making*
+- [Data Product Trade-Off Decisions: The Missing Framework](https://davidohnstad.com/data-product-trade-off-decisions-framework/) — *Data Product Management*
+- [North Shore Fall Colors: Peak Hiking Window & Weather Guide](https://davidohnstadminnesota.com/north-shore-fall-colors-peak-hiking-window/) — *Minnesota Outdoors & Adventure*
+- [Enterprise AI Implementation: Start Small, Not Strategic](https://davidohnstad.net/enterprise-ai-start-small-not-strategic/) — *AI & Machine Learning in Enterprise Software*
+- [Why Mentorship Programs Fail: Scaling Without Burnout](https://davidohnstad.info/why-mentorship-programs-fail-scaling/) — *Leadership, Mentorship & Career Development*
+- [Tool Audit for Woodworkers: Cut the Clutter](https://david-ohnstad.com/tool-audit-woodworkers-strategy/) — *Woodworking & Making*
+- [Data Product Roadmaps: Why They Fail Without Governance](https://davidohnstad.com/data-product-roadmaps-fail-without-governance/) — *Data Product Management*
+- [North Shore October Hiking: Gear Mistakes That Cost Hours](https://davidohnstadminnesota.com/north-shore-october-hiking-gear-mistakes/) — *Minnesota Outdoors & Adventure*
+- [Formalize Mentorship: Why Leaders Skip It & Hidden Costs](https://davidohnstad.info/formalize-mentorship-why-leaders-avoid/) — *Leadership, Mentorship & Career Development*
 
 ---
 
