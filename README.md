@@ -23,13 +23,10 @@ I publish weekly across five sites — each focused on a different domain I work
 ## Recent Articles
 
 - [Data Product Trade-Off Decisions: The Missing Framework](https://davidohnstad.com/data-product-trade-off-decisions-framework/) — *Data Product Management*
-- [North Shore Fall Colors: Peak Hiking Window & Weather Guide](https://davidohnstadminnesota.com/north-shore-fall-colors-peak-hiking-window/) — *Minnesota Outdoors & Adventure*
-- [Enterprise AI Implementation: Start Small, Not Strategic](https://davidohnstad.net/enterprise-ai-start-small-not-strategic/) — *AI & Machine Learning in Enterprise Software*
-- [Why Mentorship Programs Fail: Scaling Without Burnout](https://davidohnstad.info/why-mentorship-programs-fail-scaling/) — *Leadership, Mentorship & Career Development*
-- [Tool Audit for Woodworkers: Cut the Clutter](https://david-ohnstad.com/tool-audit-woodworkers-strategy/) — *Woodworking & Making*
-- [Data Product Roadmaps: Why They Fail Without Governance](https://davidohnstad.com/data-product-roadmaps-fail-without-governance/) — *Data Product Management*
-- [North Shore October Hiking: Gear Mistakes That Cost Hours](https://davidohnstadminnesota.com/north-shore-october-hiking-gear-mistakes/) — *Minnesota Outdoors & Adventure*
-- [Formalize Mentorship: Why Leaders Skip It & Hidden Costs](https://davidohnstad.info/formalize-mentorship-why-leaders-avoid/) — *Leadership, Mentorship & Career Development*
+- [Superior Hiking Trail Ice Conditions: January-March Guide](https://davidohnstadminnesota.com/superior-hiking-trail-ice-conditions-winter/) — *Minnesota Outdoors & Adventure*
+- [Proximity Bias in Mentorship: Why Programs Fail](https://davidohnstad.info/proximity-bias-mentorship-access/) — *Leadership, Mentorship & Career Development*
+- [Why Mentorship Programs Fail: Building for the Right People](https://davidohnstad.info/why-mentorship-programs-fail-built-wrong-people/) — *Leadership, Mentorship & Career Development*
+- [Hand Tools vs Power Tools: The Setup Time Truth](https://david-ohnstad.com/hand-tools-vs-power-tools-setup-time/) — *Woodworking & Making*
 
 ---
 
