@@ -22,11 +22,15 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [Data Product Trade-Off Decisions: The Missing Framework](https://davidohnstad.com/data-product-trade-off-decisions-framework/) — *Data Product Management*
-- [Superior Hiking Trail Ice Conditions: January-March Guide](https://davidohnstadminnesota.com/superior-hiking-trail-ice-conditions-winter/) — *Minnesota Outdoors & Adventure*
-- [Proximity Bias in Mentorship: Why Programs Fail](https://davidohnstad.info/proximity-bias-mentorship-access/) — *Leadership, Mentorship & Career Development*
-- [Why Mentorship Programs Fail: Building for the Right People](https://davidohnstad.info/why-mentorship-programs-fail-built-wrong-people/) — *Leadership, Mentorship & Career Development*
-- [Hand Tools vs Power Tools: The Setup Time Truth](https://david-ohnstad.com/hand-tools-vs-power-tools-setup-time/) — *Woodworking & Making*
+- [Data Product ROI: Why Budgets Fail Without Measurement](https://davidohnstad.com/data-product-roi-measurement-gap/) — *Data Product Management*
+- [Voyageurs National Park: Better Than Boundary Waters for Beginners](https://davidohnstadminnesota.com/voyageurs-national-park-first-canoe-trip/) — *Minnesota Outdoors & Adventure*
+- [Enterprise AI Adoption: Why 96% of Users Never Engage](https://davidohnstad.net/enterprise-ai-adoption-user-engagement-gap/) — *AI & Machine Learning in Enterprise Software*
+- [Internal Mobility: Why Managers Unintentionally Block It](https://davidohnstad.info/internal-mobility-managers-sabotage/) — *Leadership, Mentorship & Career Development*
+- [Biscuit Jointer Failures: Why Cabinet Joints Separate](https://david-ohnstad.com/biscuit-jointer-failures-cabinet-joints/) — *Woodworking & Making*
+- [Data Product Budget Defense: Why August Kills Q4 Plans](https://davidohnstad.com/data-product-budget-defense-august/) — *Data Product Management*
+- [North Shore Ice Climbing: Realities for First-Season Climbers](https://davidohnstadminnesota.com/north-shore-ice-climbing-first-season/) — *Minnesota Outdoors & Adventure*
+- [Enterprise AI Implementation: Why Organizational Design Matters](https://davidohnstad.net/enterprise-ai-implementation-organizational-design/) — *AI & Machine Learning in Enterprise Software*
+- [Internal Mobility: Why Managers Fear Losing Top Talent](https://davidohnstad.info/internal-mobility-managers-fear-losing-talent/) — *Leadership, Mentorship & Career Development*
 
 ---
 
