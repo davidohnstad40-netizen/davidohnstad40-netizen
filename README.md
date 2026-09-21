@@ -23,14 +23,11 @@ I publish weekly across five sites — each focused on a different domain I work
 ## Recent Articles
 
 - [Data Product ROI: Why Budgets Fail Without Measurement](https://davidohnstad.com/data-product-roi-measurement-gap/) — *Data Product Management*
+- [Data Product Roadmaps: Why They Fail Without Governance](https://davidohnstad.com/data-product-roadmaps-fail-without-governance/) — *Data Product Management*
 - [Voyageurs National Park: Better Than Boundary Waters for Beginners](https://davidohnstadminnesota.com/voyageurs-national-park-first-canoe-trip/) — *Minnesota Outdoors & Adventure*
-- [Enterprise AI Adoption: Why 96% of Users Never Engage](https://davidohnstad.net/enterprise-ai-adoption-user-engagement-gap/) — *AI & Machine Learning in Enterprise Software*
-- [Internal Mobility: Why Managers Unintentionally Block It](https://davidohnstad.info/internal-mobility-managers-sabotage/) — *Leadership, Mentorship & Career Development*
-- [Biscuit Jointer Failures: Why Cabinet Joints Separate](https://david-ohnstad.com/biscuit-jointer-failures-cabinet-joints/) — *Woodworking & Making*
-- [Data Product Budget Defense: Why August Kills Q4 Plans](https://davidohnstad.com/data-product-budget-defense-august/) — *Data Product Management*
-- [North Shore Ice Climbing: Realities for First-Season Climbers](https://davidohnstadminnesota.com/north-shore-ice-climbing-first-season/) — *Minnesota Outdoors & Adventure*
-- [Enterprise AI Implementation: Why Organizational Design Matters](https://davidohnstad.net/enterprise-ai-implementation-organizational-design/) — *AI & Machine Learning in Enterprise Software*
-- [Internal Mobility: Why Managers Fear Losing Top Talent](https://davidohnstad.info/internal-mobility-managers-fear-losing-talent/) — *Leadership, Mentorship & Career Development*
+- [Formalize Mentorship: Why Leaders Skip It &#038; Hidden Costs](https://davidohnstad.info/formalize-mentorship-why-leaders-avoid/) — *Leadership, Mentorship & Career Development*
+- [Why Mentorship Programs Fail: Scaling Without Burnout](https://davidohnstad.info/why-mentorship-programs-fail-scaling/) — *Leadership, Mentorship & Career Development*
+- [Tool Audit for Woodworkers: Cut the Clutter](https://david-ohnstad.com/tool-audit-woodworkers-strategy/) — *Woodworking & Making*
 
 ---
 
