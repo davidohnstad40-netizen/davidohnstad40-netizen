@@ -22,12 +22,15 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [Data Product ROI: Why Budgets Fail Without Measurement](https://davidohnstad.com/data-product-roi-measurement-gap/) — *Data Product Management*
-- [Data Product Roadmaps: Why They Fail Without Governance](https://davidohnstad.com/data-product-roadmaps-fail-without-governance/) — *Data Product Management*
-- [Voyageurs National Park: Better Than Boundary Waters for Beginners](https://davidohnstadminnesota.com/voyageurs-national-park-first-canoe-trip/) — *Minnesota Outdoors & Adventure*
-- [Formalize Mentorship: Why Leaders Skip It &#038; Hidden Costs](https://davidohnstad.info/formalize-mentorship-why-leaders-avoid/) — *Leadership, Mentorship & Career Development*
-- [Why Mentorship Programs Fail: Scaling Without Burnout](https://davidohnstad.info/why-mentorship-programs-fail-scaling/) — *Leadership, Mentorship & Career Development*
-- [Tool Audit for Woodworkers: Cut the Clutter](https://david-ohnstad.com/tool-audit-woodworkers-strategy/) — *Woodworking & Making*
+- [Data Product Success Metrics: Why They're Misleading](https://davidohnstad.com/data-product-success-metrics-misleading/) — *Data Product Management*
+- [Fall Colors in Minnesota: Myths About Age & Fitness](https://davidohnstadminnesota.com/minnesota-fall-colors-myths-age-fitness/) — *Minnesota Outdoors & Adventure*
+- [AI Governance in Enterprise: Why Vendor Consolidation Fails](https://davidohnstad.net/ai-governance-enterprise-vendor-consolidation/) — *AI & Machine Learning in Enterprise Software*
+- [Why Mentorship Programs Fail: The Training Gap](https://davidohnstad.info/mentorship-programs-fail-training-gap/) — *Leadership, Mentorship & Career Development*
+- [Woodworking Project Selection: The Build Ladder Framework](https://david-ohnstad.com/woodworking-project-selection-build-ladder-framework/) — *Woodworking & Making*
+- [Data Product Strategy: Why You're Building the Wrong Thing](https://davidohnstad.com/data-product-strategy-building-wrong-thing/) — *Data Product Management*
+- [BWCA After Wildfire: 62,000 Acres Recovery Guide](https://davidohnstadminnesota.com/bwca-after-wildfire-moose-lake-recovery/) — *Minnesota Outdoors & Adventure*
+- [AI Governance Theater: Why Dashboards Fail in Enterprise](https://davidohnstad.net/ai-governance-theater-dashboards-fail-enterprise/) — *AI & Machine Learning in Enterprise Software*
+- [Mentor Accountability: The Missing Leadership Program Layer](https://davidohnstad.info/mentor-accountability-leadership-programs/) — *Leadership, Mentorship & Career Development*
 
 ---
 
