@@ -22,15 +22,15 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [Data Product Success Metrics: Why They're Misleading](https://davidohnstad.com/data-product-success-metrics-misleading/) — *Data Product Management*
-- [Fall Colors in Minnesota: Myths About Age & Fitness](https://davidohnstadminnesota.com/minnesota-fall-colors-myths-age-fitness/) — *Minnesota Outdoors & Adventure*
+- [Data Product Success Metrics: Why They&#8217;re Misleading](https://davidohnstad.com/data-product-success-metrics-misleading/) — *Data Product Management*
+- [Data Product Budget Defense: Why August Kills Q4 Plans](https://davidohnstad.com/data-product-budget-defense-august/) — *Data Product Management*
+- [Fall Colors in Minnesota: Myths About Age &#038; Fitness](https://davidohnstadminnesota.com/minnesota-fall-colors-myths-age-fitness/) — *Minnesota Outdoors & Adventure*
+- [North Shore Ice Climbing: Realities for First-Season Climbers](https://davidohnstadminnesota.com/north-shore-ice-climbing-first-season/) — *Minnesota Outdoors & Adventure*
 - [AI Governance in Enterprise: Why Vendor Consolidation Fails](https://davidohnstad.net/ai-governance-enterprise-vendor-consolidation/) — *AI & Machine Learning in Enterprise Software*
-- [Why Mentorship Programs Fail: The Training Gap](https://davidohnstad.info/mentorship-programs-fail-training-gap/) — *Leadership, Mentorship & Career Development*
-- [Woodworking Project Selection: The Build Ladder Framework](https://david-ohnstad.com/woodworking-project-selection-build-ladder-framework/) — *Woodworking & Making*
-- [Data Product Strategy: Why You're Building the Wrong Thing](https://davidohnstad.com/data-product-strategy-building-wrong-thing/) — *Data Product Management*
-- [BWCA After Wildfire: 62,000 Acres Recovery Guide](https://davidohnstadminnesota.com/bwca-after-wildfire-moose-lake-recovery/) — *Minnesota Outdoors & Adventure*
-- [AI Governance Theater: Why Dashboards Fail in Enterprise](https://davidohnstad.net/ai-governance-theater-dashboards-fail-enterprise/) — *AI & Machine Learning in Enterprise Software*
-- [Mentor Accountability: The Missing Leadership Program Layer](https://davidohnstad.info/mentor-accountability-leadership-programs/) — *Leadership, Mentorship & Career Development*
+- [Enterprise AI Implementation: Why Organizational Design Matters](https://davidohnstad.net/enterprise-ai-implementation-organizational-design/) — *AI & Machine Learning in Enterprise Software*
+- [Internal Mobility: Why Managers Fear Losing Top Talent](https://davidohnstad.info/internal-mobility-managers-fear-losing-talent/) — *Leadership, Mentorship & Career Development*
+- [Internal Mobility: Why Managers Unintentionally Block It](https://davidohnstad.info/internal-mobility-managers-sabotage/) — *Leadership, Mentorship & Career Development*
+- [Biscuit Jointer Failures: Why Cabinet Joints Separate](https://david-ohnstad.com/biscuit-jointer-failures-cabinet-joints/) — *Woodworking & Making*
 
 ---
 
