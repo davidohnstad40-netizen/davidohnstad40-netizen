@@ -22,15 +22,14 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [Data Product Success Metrics: Why They&#8217;re Misleading](https://davidohnstad.com/data-product-success-metrics-misleading/) — *Data Product Management*
-- [Data Product Budget Defense: Why August Kills Q4 Plans](https://davidohnstad.com/data-product-budget-defense-august/) — *Data Product Management*
-- [Fall Colors in Minnesota: Myths About Age &#038; Fitness](https://davidohnstadminnesota.com/minnesota-fall-colors-myths-age-fitness/) — *Minnesota Outdoors & Adventure*
-- [North Shore Ice Climbing: Realities for First-Season Climbers](https://davidohnstadminnesota.com/north-shore-ice-climbing-first-season/) — *Minnesota Outdoors & Adventure*
-- [AI Governance in Enterprise: Why Vendor Consolidation Fails](https://davidohnstad.net/ai-governance-enterprise-vendor-consolidation/) — *AI & Machine Learning in Enterprise Software*
-- [Enterprise AI Implementation: Why Organizational Design Matters](https://davidohnstad.net/enterprise-ai-implementation-organizational-design/) — *AI & Machine Learning in Enterprise Software*
-- [Internal Mobility: Why Managers Fear Losing Top Talent](https://davidohnstad.info/internal-mobility-managers-fear-losing-talent/) — *Leadership, Mentorship & Career Development*
-- [Internal Mobility: Why Managers Unintentionally Block It](https://davidohnstad.info/internal-mobility-managers-sabotage/) — *Leadership, Mentorship & Career Development*
-- [Biscuit Jointer Failures: Why Cabinet Joints Separate](https://david-ohnstad.com/biscuit-jointer-failures-cabinet-joints/) — *Woodworking & Making*
+- [Data Product Management: The Complete Guide](https://davidohnstad.com/complete-guide-data-product-management/) — *Data Product Management*
+- [Twin Cities Fall Color Peak: Skip the North Shore Crowds](https://davidohnstadminnesota.com/twin-cities-fall-color-peak-skip-north-shore/) — *Minnesota Outdoors & Adventure*
+- [AI Product Roadmaps: Building Teams Before Features](https://davidohnstad.net/ai-product-roadmaps-building-teams-before-features/) — *AI & Machine Learning in Enterprise Software*
+- [Mentorship Metrics: How to Prove ROI to Finance](https://davidohnstad.info/mentorship-metrics-how-to-prove-roi-to-finance/) — *Leadership, Mentorship & Career Development*
+- [October Woodworking: Why Fall Is Peak Shop Season](https://david-ohnstad.com/october-woodworking-peak-shop-season/) — *Woodworking & Making*
+- [Data Products vs Analytics Dashboards: The $4M Mistake](https://davidohnstad.com/data-products-vs-analytics-dashboards/) — *Data Product Management*
+- [Minnesota Walleye Fishing: Why Reports Miss the Real Action](https://davidohnstadminnesota.com/minnesota-walleye-fishing-reports-accuracy/) — *Minnesota Outdoors & Adventure*
+- [Mentorship Program Outcomes: Why Activity Metrics Fail](https://davidohnstad.info/mentorship-program-outcomes-activity-metrics/) — *Leadership, Mentorship & Career Development*
 
 ---
 
@@ -43,4 +42,4 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ---
 
-*Updated September 2026 · Senior Data Product Manager at Veeam · Based in Minnesota*
+*Updated October 2026 · Senior Data Product Manager at Veeam · Based in Minnesota*
