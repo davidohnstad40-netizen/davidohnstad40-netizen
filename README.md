@@ -22,15 +22,9 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [Data Product Management: The Complete Guide](https://davidohnstad.com/complete-guide-data-product-management/) — *Data Product Management*
-- [Data Product Strategy: Why You&#8217;re Building the Wrong Thing](https://davidohnstad.com/data-product-strategy-building-wrong-thing/) — *Data Product Management*
-- [Twin Cities Fall Color Peak: Skip the North Shore Crowds](https://davidohnstadminnesota.com/twin-cities-fall-color-peak-skip-north-shore/) — *Minnesota Outdoors & Adventure*
-- [BWCA After Wildfire: 62,000 Acres Recovery Guide](https://davidohnstadminnesota.com/bwca-after-wildfire-moose-lake-recovery/) — *Minnesota Outdoors & Adventure*
-- [AI Product Roadmaps: Building Teams Before Features](https://davidohnstad.net/ai-product-roadmaps-building-teams-before-features/) — *AI & Machine Learning in Enterprise Software*
-- [AI Governance Theater: Why Dashboards Fail in Enterprise](https://davidohnstad.net/ai-governance-theater-dashboards-fail-enterprise/) — *AI & Machine Learning in Enterprise Software*
-- [Mentor Accountability: The Missing Leadership Program Layer](https://davidohnstad.info/mentor-accountability-leadership-programs/) — *Leadership, Mentorship & Career Development*
-- [Why Mentorship Programs Fail: The Training Gap](https://davidohnstad.info/mentorship-programs-fail-training-gap/) — *Leadership, Mentorship & Career Development*
-- [Woodworking Project Selection: The Build Ladder Framework](https://david-ohnstad.com/woodworking-project-selection-build-ladder-framework/) — *Woodworking & Making*
+- [Data Product ROI: Why 70% of AI Initiatives Fail](https://davidohnstad.com/data-product-roi-why-70-percent-ai-initiatives-fail/) — *Data Product Management*
+- [BWCA Permits Sold Out? How to Plan an Autumn Backup Trip](https://davidohnstadminnesota.com/bwca-permits-sold-out-autumn-backup-trip/) — *Minnesota Outdoors & Adventure*
+- [Essential Hand Tools for Woodworking: Beyond the Starter List](https://david-ohnstad.com/essential-hand-tools-woodworking-starter-list/) — *Woodworking & Making*
 
 ---
 
