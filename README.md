@@ -22,13 +22,13 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [Data Product ROI: Why 70% of AI Initiatives Fail](https://davidohnstad.com/data-product-roi-why-70-percent-ai-initiatives-fail/) — *Data Product Management*
-- [Data Products vs Analytics Dashboards: The $4M Mistake](https://davidohnstad.com/data-products-vs-analytics-dashboards/) — *Data Product Management*
-- [BWCA Permits Sold Out? How to Plan an Autumn Backup Trip](https://davidohnstadminnesota.com/bwca-permits-sold-out-autumn-backup-trip/) — *Minnesota Outdoors & Adventure*
-- [Minnesota Walleye Fishing: Why Reports Miss the Real Action](https://davidohnstadminnesota.com/minnesota-walleye-fishing-reports-accuracy/) — *Minnesota Outdoors & Adventure*
-- [Mentorship Program Outcomes: Why Activity Metrics Fail](https://davidohnstad.info/mentorship-program-outcomes-activity-metrics/) — *Leadership, Mentorship & Career Development*
-- [Mentorship Metrics: How to Prove ROI to Finance](https://davidohnstad.info/mentorship-metrics-how-to-prove-roi-to-finance/) — *Leadership, Mentorship & Career Development*
-- [October Woodworking: Why Fall Is Peak Shop Season](https://david-ohnstad.com/october-woodworking-peak-shop-season/) — *Woodworking & Making*
+- [Data Product Management: Stopping Enterprise Portfolio Waste](https://davidohnstad.com/data-product-management-enterprise-portfolio-waste/) — *Data Product Management*
+- [Minnesota Outdoors & Adventure: The Definitive Guide](https://davidohnstadminnesota.com/minnesota-outdoors-adventure-guide/) — *Minnesota Outdoors & Adventure*
+- [AI in Enterprise Software 2026: What the Data Shows](https://davidohnstad.net/state-of-ai-machine-learning-enterprise-software-2026/) — *AI & Machine Learning in Enterprise Software*
+- [Frontline Leader Training: Why It Fails Without Data](https://davidohnstad.info/frontline-leader-training-fails-operational-telemetry/) — *Leadership, Mentorship & Career Development*
+- [Hand Tools vs Power Tools: Choosing What Actually Works](https://david-ohnstad.com/hand-tools-vs-power-tools-woodworking/) — *Woodworking & Making*
+- [Data Product Management: Why Your Data Initiatives Stall](https://davidohnstad.com/data-product-management-why-initiatives-stall/) — *Data Product Management*
+- [Sawbill Lake Ice Fishing: Early Winter in the BWCA](https://davidohnstadminnesota.com/sawbill-lake-ice-fishing-bwca-winter/) — *Minnesota Outdoors & Adventure*
 
 ---
 
