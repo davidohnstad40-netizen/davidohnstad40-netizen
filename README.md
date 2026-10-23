@@ -22,9 +22,9 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [Data Product Management: Stopping Enterprise Portfolio Waste](https://davidohnstad.com/data-product-management-enterprise-portfolio-waste/) — *Data Product Management*
-- [Minnesota Outdoors &#038; Adventure: The Definitive Guide](https://davidohnstadminnesota.com/minnesota-outdoors-adventure-guide-2/) — *Minnesota Outdoors & Adventure*
-- [Essential Hand Tools for Woodworking: Beyond the Starter List](https://david-ohnstad.com/essential-hand-tools-woodworking-starter-list/) — *Woodworking & Making*
+- [Data Product Management: Why Analytics Portals Fail](https://davidohnstad.com/data-product-management-why-analytics-portals-fail/) — *Data Product Management*
+- [Superior Hiking Trail: October Sunset at Tettegouche](https://davidohnstadminnesota.com/superior-hiking-trail-tettegouche-october-sunset/) — *Minnesota Outdoors & Adventure*
+- [Why Most ML Models Never Reach Production](https://davidohnstad.net/why-most-ml-models-never-reach-production/) — *AI & Machine Learning in Enterprise Software*
 
 ---
 
