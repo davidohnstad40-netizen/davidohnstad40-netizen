@@ -22,14 +22,9 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [Data Product Management: Why Analytics Portals Fail](https://davidohnstad.com/data-product-management-why-analytics-portals-fail/) — *Data Product Management*
-- [Data Product Management: Why Your Data Initiatives Stall](https://davidohnstad.com/data-product-management-why-initiatives-stall/) — *Data Product Management*
-- [Superior Hiking Trail: October Sunset at Tettegouche](https://davidohnstadminnesota.com/superior-hiking-trail-tettegouche-october-sunset-3/) — *Minnesota Outdoors & Adventure*
-- [Superior Hiking Trail: October Sunset at Tettegouche](https://davidohnstadminnesota.com/superior-hiking-trail-tettegouche-october-sunset-2/) — *Minnesota Outdoors & Adventure*
-- [Superior Hiking Trail: October Sunset at Tettegouche](https://davidohnstadminnesota.com/superior-hiking-trail-tettegouche-october-sunset/) — *Minnesota Outdoors & Adventure*
-- [Sawbill Lake Ice Fishing: Early Winter in the BWCA](https://davidohnstadminnesota.com/sawbill-lake-ice-fishing-bwca-winter/) — *Minnesota Outdoors & Adventure*
-- [Why Most ML Models Never Reach Production](https://davidohnstad.net/why-most-ml-models-never-reach-production/) — *AI & Machine Learning in Enterprise Software*
-- [Frontline Leader Training: Why It Fails Without Data](https://davidohnstad.info/frontline-leader-training-fails-operational-telemetry/) — *Leadership, Mentorship & Career Development*
+- [North Country Trail Two Harbors: A Late-Fall Hike](https://davidohnstadminnesota.com/north-country-trail-two-harbors-fall-hike/) — *Minnesota Outdoors & Adventure*
+- [Mentorship ROI: Why Most Corporate Programs Fail](https://davidohnstad.info/mentorship-roi-why-corporate-programs-fail/) — *Leadership, Mentorship & Career Development*
+- [Dovetail Joints Without a Jig: What Actually Works](https://david-ohnstad.com/dovetail-joints-without-a-jig/) — *Woodworking & Making*
 
 ---
 
@@ -42,4 +37,4 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ---
 
-*Updated October 2026 · Senior Data Product Manager at Veeam · Based in Minnesota*
+*Updated November 2026 · Senior Data Product Manager at Veeam · Based in Minnesota*
