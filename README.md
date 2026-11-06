@@ -22,9 +22,7 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [North Country Trail Two Harbors: A Late-Fall Hike](https://davidohnstadminnesota.com/north-country-trail-two-harbors-fall-hike/) — *Minnesota Outdoors & Adventure*
-- [Mentorship ROI: Why Most Corporate Programs Fail](https://davidohnstad.info/mentorship-roi-why-corporate-programs-fail/) — *Leadership, Mentorship & Career Development*
-- [Dovetail Joints Without a Jig: What Actually Works](https://david-ohnstad.com/dovetail-joints-without-a-jig/) — *Woodworking & Making*
+- [Superior Hiking Trail at Tettegouche: Fall Hike Guide](https://davidohnstadminnesota.com/superior-hiking-trail-tettegouche-state-park/) — *Minnesota Outdoors & Adventure*
 
 ---
 
