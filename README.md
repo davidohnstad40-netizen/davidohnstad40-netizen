@@ -23,6 +23,7 @@ I publish weekly across five sites — each focused on a different domain I work
 ## Recent Articles
 
 - [Superior Hiking Trail at Tettegouche: Fall Hike Guide](https://davidohnstadminnesota.com/superior-hiking-trail-tettegouche-state-park/) — *Minnesota Outdoors & Adventure*
+- [North Country Trail Two Harbors: A Late-Fall Hike](https://davidohnstadminnesota.com/north-country-trail-two-harbors-fall-hike/) — *Minnesota Outdoors & Adventure*
 
 ---
 
