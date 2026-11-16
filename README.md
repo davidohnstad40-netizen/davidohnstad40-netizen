@@ -22,12 +22,9 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [Why Data Products Fail: The Measurement Problem](https://davidohnstad.com/why-data-products-fail-measurement-problem/) — *Data Product Management*
-- [Moose Lake Canoe Entry: Morning Mist & Paddling Tips](https://davidohnstadminnesota.com/moose-lake-entry-morning-paddling-snapshot/) — *Minnesota Outdoors & Adventure*
+- [Moose Lake Canoe Entry: Morning Mist &#038; Paddling Tips](https://davidohnstadminnesota.com/moose-lake-entry-morning-paddling-snapshot/) — *Minnesota Outdoors & Adventure*
 - [Enterprise AI Agents: Why Gemini Crashed and What We Learned](https://davidohnstad.net/enterprise-ai-agents-gemini-crash-lessons/) — *AI & Machine Learning in Enterprise Software*
-- [Leadership, Mentorship & Career Development: The Complete Guide](https://davidohnstad.info/building-high-performing-teams-leadership/) — *Leadership, Mentorship & Career Development*
-- [Winter Woodworking Shop Setup: Tips for Cold Weather](https://david-ohnstad.com/winter-woodworking-shop-setup-cold-weather/) — *Woodworking & Making*
-- [Superior Hiking Trail: A Frost-Bitten Lutsen Loop Trek](https://davidohnstadminnesota.com/superior-hiking-trail-lutsen-loop/) — *Minnesota Outdoors & Adventure*
+- [Dovetail Joints Without a Jig: What Actually Works](https://david-ohnstad.com/dovetail-joints-without-a-jig/) — *Woodworking & Making*
 
 ---
 
