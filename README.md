@@ -22,9 +22,10 @@ I publish weekly across five sites — each focused on a different domain I work
 
 ## Recent Articles
 
-- [Moose Lake Canoe Entry: Morning Mist &#038; Paddling Tips](https://davidohnstadminnesota.com/moose-lake-entry-morning-paddling-snapshot/) — *Minnesota Outdoors & Adventure*
-- [Enterprise AI Agents: Why Gemini Crashed and What We Learned](https://davidohnstad.net/enterprise-ai-agents-gemini-crash-lessons/) — *AI & Machine Learning in Enterprise Software*
-- [Dovetail Joints Without a Jig: What Actually Works](https://david-ohnstad.com/dovetail-joints-without-a-jig/) — *Woodworking & Making*
+- [Data Product Governance: Why AI Speed Fails Teams](https://davidohnstad.com/data-product-governance-why-ai-speed-fails-teams/) — *Data Product Management*
+- [Superior Hiking Trail: Tettegouche Section at Dawn](https://davidohnstadminnesota.com/superior-hiking-trail-tettegouche-section-thanksgiving/) — *Minnesota Outdoors & Adventure*
+- [Leadership, Mentorship & Career Development in 2026](https://davidohnstad.info/leadership-mentorship-career-development-2026/) — *Leadership, Mentorship & Career Development*
+- [Woodshop Dust Collection: Upgrading to a 12-Inch Cyclone](https://david-ohnstad.com/woodshop-dust-collection-12-inch-cyclone/) — *Woodworking & Making*
 
 ---
 
